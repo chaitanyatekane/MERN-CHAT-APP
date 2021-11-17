@@ -8,4 +8,7 @@
 - React Router DOM<br>
   Command -> npm install react-router-dom@5
   <br>
+- Axios<br>
+  Command -> npm i axios
+  <br>
 -
